@@ -1,0 +1,3 @@
+[submodule "static/echo-live"]
+	path = static/echo-live
+	url = https://staswit@github.com/YouxingClub/Echo-Live-Rev.git
